@@ -1,0 +1,128 @@
+* {
+	background-color: rgb(33, 32, 32);
+	color: rgb(211, 227, 229);
+	font-family: menlo;
+	text-decoration: none;
+	font-weight: lighter;
+}
+
+#main {
+	text-align: center;
+	font-size: 1.5em;
+	margin: 0;
+}
+
+#sum {
+	text-align: center;
+	font-size: .7em;
+	margin: 0;
+}
+
+#maindiv {
+	margin-top: 3%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 10%;
+}
+
+#div1 {
+	width: 250px;
+	height: 250px;
+	margin-left: 15%;
+}
+
+#div1par {
+	margin: 0;
+	width: 250px;
+	text-align: center;
+	font-size: .7em;
+	margin-left: 15%;
+}
+
+#div2 {
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: 15%;
+	width: 250px;
+	height: 250px;
+}
+
+#div2par {
+	margin: 0;
+	margin-left: auto;
+	margin-right: 15%;
+	width: 250px;
+	text-align: center;
+	font-size: .7em;
+}
+
+#div3 {
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	height: 250px;
+}
+
+#div3par {
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	text-align: center;
+	font-size: .7em;
+}
+
+#div4 {
+	margin-top: 30px;
+	width: 250px;
+	height: 250px;
+	margin-left: 15%;
+}
+
+#div4par {
+	margin: 0;
+	width: 250px;
+	text-align: center;
+	font-size: .7em;
+	margin-left: 15%;
+}
+
+#div5 {
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: 15%;
+	width: 250px;
+	height: 250px;
+}
+
+#div5par {
+	margin: 0;
+	margin-left: auto;
+	margin-right: 15%;
+	width: 250px;
+	text-align: center;
+	font-size: .7em;
+}
+
+#div6 {
+	margin-top: 30px;
+	width: 250px;
+	height: 250px;
+	margin-left: 15%;
+}
+
+#div6par {
+	margin: 0;
+	width: 250px;
+	text-align: center;
+	font-size: .7em;
+	margin-top: -40px;
+	margin-left: 15%;
+}
+
+#bottompar {
+	margin-top: -40px;
+	text-align: center;;
+	font-size: .7em;
+}

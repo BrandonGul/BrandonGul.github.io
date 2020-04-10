@@ -1,0 +1,21 @@
+p {
+  margin: 0;
+  padding: 0;
+  font-family: menlo;
+  font-size: 12px;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  font-family: menlo;
+  font-size: 12px;
+  color: blue;
+}
+
+a:hover {
+  font-family: menlo;
+  font-size: 12px;
+  color: black;
+  text-decoration: underline;
+}
